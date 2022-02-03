@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RY3XGXXfPPX8M4cA4cZvlNi0fbKCm98p/k37HPqbw/Z7P9MFwptnSnM1gbyByBT1lksQQ4RVXkAcBjxhhXmQ7Q==",
+  "dgSpecHash": "FhIAVgO6EYk+8T+4H1SGV3tzoFPuHF4KKdLQeL4vZrZ1y/UPgEvTrYhjNgJZQRRxvBpgonTJC8xcubFMeOg8bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ProjetoIA-FacialRecognizement\\Plano-B (executado)\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\52565140835.INFOSCS\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.face\\2.8.0-preview.2\\microsoft.azure.cognitiveservices.vision.face.2.8.0-preview.2.nupkg.sha512",
     "C:\\Users\\52565140835.INFOSCS\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

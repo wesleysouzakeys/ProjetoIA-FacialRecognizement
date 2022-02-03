@@ -13,6 +13,9 @@ namespace ConsoleApp1
     {
         // Recognition model 3 was released in 2020 May
         const string RECOGNITION_MODEL3 = RecognitionModel.Recognition03;
+
+        //const string API_KEY = "3e167dc8783c49c599c391ba7378ec68";
+        //const string ENDPOINT = "https://senaifacial-g3.cognitiveservices.azure.com/";
         public static IFaceClient Authenticate(string endpoint, string key)
         {
             return new FaceClient(new ApiKeyServiceClientCredentials(key)) { Endpoint = endpoint };

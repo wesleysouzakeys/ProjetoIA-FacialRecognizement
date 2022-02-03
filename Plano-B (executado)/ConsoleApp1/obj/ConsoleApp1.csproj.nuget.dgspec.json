@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52565140835.INFOSCS\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\52565140835.INFOSCS\\Desktop\\ProjetoIA-FacialRecognizement\\Plano-B (executado)\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52565140835.INFOSCS\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\52565140835.INFOSCS\\Desktop\\ProjetoIA-FacialRecognizement\\Plano-B (executado)\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ProjetoIA-FacialRecognizement\\Plano-B (executado)\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ProjetoIA-FacialRecognizement\\Plano-B (executado)\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\52565140835.INFOSCS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\52565140835.INFOSCS\\Desktop\\ProjetoIA-FacialRecognizement\\Plano-B (executado)\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\52565140835.INFOSCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
